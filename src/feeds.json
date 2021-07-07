@@ -1,11 +1,8 @@
 {
-  "Web Development": [
-    "https://hacks.mozilla.org/feed/",
-    "https://blog.mozilla.org/feed/",
-    "https://web.dev/feed.xml",
-    "https://v8.dev/blog.atom",
-    "https://alistapart.com/main/feed/",
-    "https://css-tricks.com/feed/",
+  "Christianity": [
+    "https://www.relevantmagazine.com/feed/",
+    "http://feeds.christianitytoday.com/christianitytoday/ctmag/",
+    "http://feeds.christianitytoday.com/christianitytoday/hottopics/",
     "https://dev.to/feed"
   ],
   "Blogs": [
