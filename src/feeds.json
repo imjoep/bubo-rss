@@ -3,19 +3,28 @@
     "https://www.relevantmagazine.com/feed/",
     "http://feeds.christianitytoday.com/christianitytoday/ctmag/",
     "http://feeds.christianitytoday.com/christianitytoday/hottopics/",
-    "https://dev.to/feed"
+    "http://feeds.christianitytoday.com/christianitytoday/mostreads/",
+    "http://feeds.christianitytoday.com/christianitytoday/moviefeatures/",
+    "http://feeds.christianitytoday.com/christianitytoday/musicfeatures/",
   ],
   "Blogs": [
-    "https://george.mand.is/feed.xml",
-    "https://joy.recurse.com/feed.atom"
+    "https://www.tomsguide.com/feeds/all",
+    "https://insideevs.com/rss/articles/all/",
+    "https://electrek.co/feed/",
+    "https://cleantechnica.com/feed/",
+    "https://lifehacker.com/rss"
   ],
-  "My GitHub Projects": [
-    "https://github.com/georgemandis.atom",
-    "https://github.com/snaptortoise/konami-js/releases.atom",
-    "https://github.com/snaptortoise/konami-js/commits/master.atom",
-    "https://github.com/javascriptforartists/cheer-me-up-and-sing-me-a-song/commits/master.atom",
-    "https://github.com/georgemandis/circuit-playground-midi-multi-tool/commits/master.atom",
-    "https://github.com/georgemandis/remote-working-list/commits/master.atom",
-    "https://github.com/georgemandis/tweeter-totter/commits/master.atom"
+  "Austin": [
+    "https://www.kxan.com/feed/",
+    "https://www.statesman.com/section/feed",
+    "https://www.kvue.com/feeds/syndication/rss/news/local",
+    "https://www.kvue.com/feeds/syndication/rss/sports",
+    "https://www.kvue.com/feeds/syndication/rss/weather",
+    "https://www.kvue.com/feeds/syndication/rss/news/entertainment-news",
+    "https://www.kvue.com/feeds/syndication/rss/news",
+    "https://communityimpact.com/section/austin/northwest-austin/feed/",
+    "https://communityimpact.com/section/austin/round-rock-pflugerville-hutto/feed/",
+    "https://communityimpact.com/section/austin/round-rock/feed/",
+    "https://communityimpact.com/section/austin/pflugerville-hutto/feed/"
   ]
 }
