@@ -5,7 +5,9 @@
     "http://feeds.christianitytoday.com/christianitytoday/hottopics/",
     "http://feeds.christianitytoday.com/christianitytoday/mostreads/",
     "http://feeds.christianitytoday.com/christianitytoday/moviefeatures/",
-    "http://feeds.christianitytoday.com/christianitytoday/musicfeatures/"
+    "http://feeds.christianitytoday.com/christianitytoday/musicfeatures/",
+    "http://feeds.feedburner.com/FocusOnTheFamilyDailyBroadcast",
+    "https://www.christianpost.com/rss"
   ],
   "Blogs": [
     "https://www.tomsguide.com/feeds/all",
