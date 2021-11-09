@@ -1,6 +1,10 @@
 {
   "Podcasts": [
-    "https://feeds.buzzsprout.com/1244093.rss"
+    "https://feeds.buzzsprout.com/1244093.rss",
+    "https://feeds.feedburner.com/FocusOnTheFamilyDailyBroadcast",
+    "https://feeds.feedburner.com/focus-on-the-family/focus-on-parenting",
+    "https://feeds.buzzsprout.com/107460.rss",
+    "http://feeds.thevillagechurch.net/sermons"
   ],
   "Christianity": [
     "https://www.relevantmagazine.com/feed/",
